@@ -40,5 +40,15 @@ GROUP_REPOS = [
             "sla": "",
 },
 
-
+{
+            "name": "EdgerunnersDevOps",
+            "gitLinks": [],
+            "backend": "",
+            "frontend": "",
+            "monitoring": "",
+            "stack": [],
+            "documentation": [],
+            
+}
+        
 ]
